@@ -1,16 +1,12 @@
-## Hi there 👋
+## Cryptography
 
-<!--
-**Z323323/Z323323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Euler Totient function multiplicativity proof](https://github.com/Z323323/Euler-Totient-function-multiplicativity-proof)
+- ![Totient multiplicativity extension to non primes](https://github.com/Z323323/Totient-extension-to-non-primes)
+- ![Chinese remainder theorem](https://github.com/Z323323/Chinese-remainder-theorem)
+- ![From Fermat to the group theory](https://github.com/Z323323/From-Fermat-to-the-group-theory)
+- ![Group theory elements](https://github.com/Z323323/Group-theory-elements)
+- ![Number theory interlude 1](https://github.com/Z323323/Number-theory-interlude-1)
+- ![Quadratic residues](https://github.com/Z323323/Quadratic-residues)
+- ![Number theory interlude 2](https://github.com/Z323323/Number-theory-interlude-2)
+- ![Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
+- ![Roots of unity](https://github.com/Z323323/Roots-of-unity)
