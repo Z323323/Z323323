@@ -1,7 +1,7 @@
 ## Cryptography
 
-- [Euler Totient function multiplicativity proof](https://github.com/Z323323/Euler-Totient-function-multiplicativity-proof)
-- [Totient multiplicativity extension to non primes](https://github.com/Z323323/Totient-extension-to-non-primes)
+- [Euler Totient function multiplicativity proof for primes](https://github.com/Z323323/Euler-Totient-function-multiplicativity-proof)
+- [Totient multiplicativity extension to powers of primes](https://github.com/Z323323/Totient-extension-to-non-primes)
 - [Chinese remainder theorem](https://github.com/Z323323/Chinese-remainder-theorem)
 - [From Fermat to the group theory](https://github.com/Z323323/From-Fermat-to-the-group-theory)
 - [Group theory elements](https://github.com/Z323323/Group-theory-elements)
