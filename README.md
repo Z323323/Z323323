@@ -1,6 +1,6 @@
 ## Cryptography
 
-- [Euler Totient function multiplicativity proof](../Z323323/Euler-Totient-function-multiplicativity-proof)
+- [Euler Totient function multiplicativity proof](./Euler-Totient-function-multiplicativity-proof.README.md)
 - [Totient multiplicativity extension to non primes](../Totient-extension-to-non-primes)
 - [Chinese remainder theorem](../Chinese-remainder-theorem)
 - [From Fermat to the group theory](../From-Fermat-to-the-group-theory)
