@@ -10,3 +10,7 @@
 - [Number theory interlude 2](https://github.com/Z323323/Number-theory-interlude-2)
 - [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
 - [Roots of unity](https://github.com/Z323323/Roots-of-unity)
+
+## Group theory
+
+- [Group theory 1](https://github.com/Z323323/Group-theory-1)
