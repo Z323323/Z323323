@@ -1,4 +1,4 @@
-## Cryptography
+## Number theory / Cryptography
 
 - [Euler Totient function multiplicativity proof for primes](https://github.com/Z323323/Euler-Totient-function-multiplicativity-proof)
 - [Totient multiplicativity extension to powers of primes](https://github.com/Z323323/Totient-extension-to-non-primes)
