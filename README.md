@@ -14,3 +14,7 @@
 ## Group theory
 
 - [Group theory 1](https://github.com/Z323323/Group-theory-1)
+
+## Galois fields
+
+- [Galois fields 1](https://github.com/Z323323/Galois-fields-1)
