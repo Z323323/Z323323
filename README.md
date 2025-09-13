@@ -6,6 +6,10 @@
 - [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
 - [Roots of unity](https://github.com/Z323323/Roots-of-unity)
 
+## Group theory and omo/iso-morphisms related concepts (this might actually be useful but I don't guarantee correctness of everything I wrote about groups)
+
+- [Group theory related stuff](https://github.com/Z323323/Group-theory-1)
+
 ## Spacemacs for FREE LaTeX (scientific) documentation production
 
 - [Spacemacs for FREE LaTeX (scientific) documentation production](https://github.com/Z323323/Spacemacs-for-LaTeX)
