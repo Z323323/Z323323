@@ -8,4 +8,4 @@
 
 ## Spacemacs for FREE LaTeX (scientific) documentation production
 
-- [](https://github.com/Z323323/Spacemacs-for-LaTeX)
+- [Spacemacs for FREE LaTeX (scientific) documentation production](https://github.com/Z323323/Spacemacs-for-LaTeX)
