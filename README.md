@@ -10,6 +10,10 @@
 
 - [Group theory related stuff](https://github.com/Z323323/Group-theory-1)
 
-## Spacemacs for FREE LaTeX (scientific) documentation production
+## Using terminal for FREE LaTeX (scientific) documentation production in an Ubuntu environment (recommended, it's faster and more stable than Spacemacs, and more elegant too)
+
+- [terminal for FREE LaTeX (scientific) documentation production](https://github.com/Z323323/terminal-for-LaTeX)
+
+## Using Spacemacs for FREE LaTeX (scientific) documentation production in an Ubuntu environment
 
 - [Spacemacs for FREE LaTeX (scientific) documentation production](https://github.com/Z323323/Spacemacs-for-LaTeX)
