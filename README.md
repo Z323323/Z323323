@@ -1,14 +1,6 @@
-## zkSTARKs
-
-
-
 ## Math
 
 - [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
-- [Roots of unity](https://github.com/Z323323/Roots-of-unity)
-
-### Group theory and omo/iso-morphisms related concepts
-
 - [Group theory related stuff](https://github.com/Z323323/Group-theory-1)
 
 ## Generating scientific docs with LaTeX for free, on your machine
