@@ -1,6 +1,7 @@
 ## Math
 
 - [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
+- [Concepts regarding n-th roots in multiplicative groups](https://github.com/Z323323/Roots-mod-p)
 
 ## Generating scientific docs with LaTeX for free, on your machine
 ### Using terminal for FREE LaTeX (scientific) documentation production in an Ubuntu environment (recommended, it's faster, better, and more stable than Spacemacs, and more elegant too)
