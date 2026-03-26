@@ -7,7 +7,7 @@
 >- [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
 >- [Concepts regarding n-th roots in multiplicative groups](https://github.com/Z323323/Roots-mod-p)
 
-### STARKs (only) related
+### STARKs related
 
 >- [Quick overview of the theory behind attacks on Merkle commitments](https://github.com/Z323323/Concepts-regarding-attacks-on-Merkle-commitments)
 
