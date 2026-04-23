@@ -4,7 +4,6 @@
 
 >- [Logarithm rules](https://github.com/Z323323/Logarithm-rules)
 >- [Couple standard limits](https://github.com/Z323323/Couple-limits)
->- [Complex numbers background](https://github.com/Z323323/Complex-numbers-background)
 >- [Concepts regarding n-th roots in multiplicative groups](https://github.com/Z323323/Roots-mod-p)
 
 ### STARKs related
