@@ -14,6 +14,5 @@
 ## Generating scientific docs with LaTeX for free, on your machine
 
 >- [Use terminal](https://github.com/Z323323/LaTeX-from-terminal)
->- [Use Spacemacs](https://github.com/Z323323/Spacemacs-for-LaTeX)
 
 
